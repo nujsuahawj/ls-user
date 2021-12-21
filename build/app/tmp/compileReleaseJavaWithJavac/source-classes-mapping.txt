@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/nuj/flutter_sixvallry_commerce/BuildConfig.java
+ com.nuj.flutter_sixvallry_commerce.BuildConfig
