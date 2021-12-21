@@ -107,7 +107,7 @@ class AppConstants {
   static const String TOPIC = 'lao-shop';
 
   static List<LanguageModel> languages = [
-    LanguageModel(imageUrl: '', languageName: 'English', countryCode: 'US', languageCode: 'en'),
-    LanguageModel(imageUrl: '', languageName: 'Arabic', countryCode: 'SA', languageCode: 'ar'),
+    LanguageModel(imageUrl: '', languageName: 'LAO', countryCode: 'LA', languageCode: 'en'),
+    LanguageModel(imageUrl: '', languageName: 'English', countryCode: 'US', languageCode: 'lo'),
   ];
 }
