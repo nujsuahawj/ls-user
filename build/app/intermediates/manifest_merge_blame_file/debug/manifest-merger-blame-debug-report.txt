@@ -77,8 +77,8 @@
 43-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\09c3a5f1659dd438c7138f5a0956b8aa\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:25:5-82
 43-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\09c3a5f1659dd438c7138f5a0956b8aa\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:25:22-79
 44    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-44-->[com.android.installreferrer:installreferrer:1.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\f7f153ba0e023ed6f886a46d2be73093\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
-44-->[com.android.installreferrer:installreferrer:1.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\f7f153ba0e023ed6f886a46d2be73093\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
+44-->[com.android.installreferrer:installreferrer:1.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\175718e2502744047368c7bc7d4da92c\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+44-->[com.android.installreferrer:installreferrer:1.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\175718e2502744047368c7bc7d4da92c\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
 45
 46    <application
 46-->D:\Flutter\app\User App\android\app\src\main\AndroidManifest.xml:29:5-92:19
@@ -89,7 +89,7 @@
 49        android:debuggable="true"
 50        android:icon="@mipmap/ic_launcher"
 50-->D:\Flutter\app\User App\android\app\src\main\AndroidManifest.xml:35:9-43
-51        android:label="6Valley"
+51        android:label="laoshop"
 51-->D:\Flutter\app\User App\android\app\src\main\AndroidManifest.xml:31:9-32
 52        android:networkSecurityConfig="@xml/network_security_config"
 52-->D:\Flutter\app\User App\android\app\src\main\AndroidManifest.xml:34:9-69
@@ -477,36 +477,36 @@
 268-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\05228949034612763bd4a90eb3ee52a9\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
 269
 270        <activity
-270-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\982ccf15c6087c6471121576aff4e583\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+270-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\b3b3444c10d95ef9030e363e53b77ac1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
 271            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-271-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\982ccf15c6087c6471121576aff4e583\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+271-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\b3b3444c10d95ef9030e363e53b77ac1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
 272            android:excludeFromRecents="true"
-272-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\982ccf15c6087c6471121576aff4e583\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+272-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\b3b3444c10d95ef9030e363e53b77ac1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
 273            android:exported="false"
-273-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\982ccf15c6087c6471121576aff4e583\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+273-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\b3b3444c10d95ef9030e363e53b77ac1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
 274            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-274-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\982ccf15c6087c6471121576aff4e583\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+274-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\b3b3444c10d95ef9030e363e53b77ac1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
 275        <!--
 276            Service handling Google Sign-In user revocation. For apps that do not integrate with
 277            Google Sign-In, this service will never be started.
 278        -->
 279        <service
-279-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\982ccf15c6087c6471121576aff4e583\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+279-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\b3b3444c10d95ef9030e363e53b77ac1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
 280            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-280-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\982ccf15c6087c6471121576aff4e583\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+280-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\b3b3444c10d95ef9030e363e53b77ac1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
 281            android:exported="true"
-281-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\982ccf15c6087c6471121576aff4e583\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+281-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\b3b3444c10d95ef9030e363e53b77ac1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
 282            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-282-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\982ccf15c6087c6471121576aff4e583\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+282-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\b3b3444c10d95ef9030e363e53b77ac1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
 283
 284        <activity
-284-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\a1c9c1df3bcefab90d366f22b54b5fd6\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+284-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\c16e59df25f1096c7d110bcf5b51f3f7\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
 285            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-285-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\a1c9c1df3bcefab90d366f22b54b5fd6\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+285-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\c16e59df25f1096c7d110bcf5b51f3f7\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
 286            android:exported="false"
-286-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\a1c9c1df3bcefab90d366f22b54b5fd6\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+286-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\c16e59df25f1096c7d110bcf5b51f3f7\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
 287            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-287-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\a1c9c1df3bcefab90d366f22b54b5fd6\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+287-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\c16e59df25f1096c7d110bcf5b51f3f7\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
 288
 289        <meta-data
 289-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\4e8c29f931ff39193106e88b24ca87a0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69

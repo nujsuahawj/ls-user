@@ -104,7 +104,7 @@ class AppConstants {
   static const String COUNTRY_CODE = 'country_code';
   static const String LANGUAGE_CODE = 'language_code';
   static const String THEME = 'theme';
-  static const String TOPIC = 'sixvalley';
+  static const String TOPIC = 'lao-shop';
 
   static List<LanguageModel> languages = [
     LanguageModel(imageUrl: '', languageName: 'English', countryCode: 'US', languageCode: 'en'),

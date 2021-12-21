@@ -522,13 +522,13 @@
 # keep rules. Add a commonly used SearchView to the keep list until b/109831488 is resolved.
 -keep class androidx.appcompat.widget.SearchView { <init>(...); }
 # End of content from C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\6224ab84b5b492dfa180768b45de6da9\appcompat-1.1.0\proguard.txt
-# The proguard configuration file for the following section is C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\a1c9c1df3bcefab90d366f22b54b5fd6\jetified-play-services-base-16.0.1\proguard.txt
+# The proguard configuration file for the following section is C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\c16e59df25f1096c7d110bcf5b51f3f7\jetified-play-services-base-16.0.1\proguard.txt
 # b/35135904 Ensure that proguard will not strip the mResultGuardian.
 -keepclassmembers class com.google.android.gms.common.api.internal.BasePendingResult {
   com.google.android.gms.common.api.internal.BasePendingResult$ReleasableResultGuardian mResultGuardian;
 }
 
-# End of content from C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\a1c9c1df3bcefab90d366f22b54b5fd6\jetified-play-services-base-16.0.1\proguard.txt
+# End of content from C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\c16e59df25f1096c7d110bcf5b51f3f7\jetified-play-services-base-16.0.1\proguard.txt
 # The proguard configuration file for the following section is C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\4e8c29f931ff39193106e88b24ca87a0\jetified-play-services-basement-17.0.0\proguard.txt
 # Proguard flags for consumers of the Google Play services SDK
 # https://developers.google.com/android/guides/setup#add_google_play_services_to_your_project
